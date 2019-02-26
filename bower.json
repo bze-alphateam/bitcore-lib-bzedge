@@ -1,0 +1,31 @@
+{
+  "name": "bitcore-lib-bzedge",
+  "main": "./bitcore-lib-bzedge.min.js",
+  "version": "0.13.19",
+  "homepage": "http://bitcore.io",
+  "authors": [
+    "BitPay, Inc.",
+    "Jack Grigg"
+  ],
+  "description": "A JavaScript lib for bzedge projects.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bzedge",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}
